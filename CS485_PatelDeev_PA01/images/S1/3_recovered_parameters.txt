@@ -1,0 +1,13 @@
+Results of normalization on image: images/S1/3.pgm
+
+affine_matrix_a:[[0.415631 -0.00837687] [0.0420329 0.405445]]
+affine_matrix_b:[[1.99625] [-1.94654]]
+
+left_eye_center:[25, 48] --> [12, 19]  (Desired: [12, 19]---> Error: [0, 0]=0)
+right_eye_center:[61, 44] --> [27, 18]  (Desired: [27, 19]---> Error: [0, -1]=1)
+nose_tip:[45, 73] --> [20, 30]  (Desired: [20, 27]---> Error: [0, 3]=3)
+lip_center:[45, 90] --> [20, 36]  (Desired: [20, 38]---> Error: [0, -2]=2)
+
+avg_error_magnitude:1.5
+
+Parameters of lighting model: a=-0.622067 b=-0.724651 c=0.0103648 d=153.075
