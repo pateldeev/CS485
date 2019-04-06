@@ -21,6 +21,7 @@ In order to run correctly, the program needs a folder called '/images' in the sa
     * /Parrot.jpg     #5th image to compress in problem 1
   * /P-2/    #folder for images for problem 2
     * /LiDAR01.png    #1st image to detect cirlces in problem 2
+
 If one or more the above images cannot be opened, the program will not run. It will give an error as to which one could not be opened.
 
 ## Results & Output
